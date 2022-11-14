@@ -1,5 +1,5 @@
 ### Olá, eu me chamo Marcos! 
-Sou estudante de Física Computacional pela Universidade de São Paulo. Tenho interesse em aprimorar minhas habilidades em ciência de dados e em astrofísica computacional. Possuo proficiência em Python para análise de dados e busco me aprimorar e conhecer novas tecologias.
+Sou estudante de Física Computacional pela Universidade de São Paulo. Tenho interesse em aprimorar minhas habilidades em ciência de dados e em astrofísica computacional. Possuo proficiência em Python para análise de dados e busco me aprimorar e conhecer novas tecnologias.
 
 - 🔭 Atualmente sou monitor do Observatório Astronômico Dietrich Schiel
 - 🌱 Estudo ciência de dados, aprendizado de máquina e detecção de materia escura
